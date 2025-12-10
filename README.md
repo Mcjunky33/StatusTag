@@ -8,17 +8,17 @@ Below is the English description, followed by the German version.
 ------------------------------------------------------------
 
 ## Description
-```
+
 Statustag is a lightweight Fabric mod that allows players and server admins to create custom status tags.
 These tags appear as colored prefixes in the player's nametag using Minecraft's scoreboard team system.
 
 All statuses and player assignments are automatically saved in "statustag.json" and restored when the server starts.
 The mod supports all Minecraft standard text colors:
 black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white... and more 
-```
+
 
 ## Features
-```
+
 - Create custom status tags
 - Assign any tag to yourself or other players
 - Choose from all Minecraft formatting colors
@@ -26,7 +26,7 @@ black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark
 - Automatic saving/loading via statustag.json
 - Works on servers only
 - Fully compatible with other scoreboard systems
-```
+
 
 ## Commands
 ```
@@ -43,17 +43,17 @@ black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark
 ------------------------------------------------------------
 
 ## Beschreibung
-```
+
 Statustag ist eine leichte Fabric-Mod, mit der Spieler und Admins eigene Status-Tags erstellen und verwalten können.
 Diese Tags erscheinen als farbige Präfixe über dem Spielernamen über das Minecraft-Scoreboard-Team-System.
 
 Alle Status und Spielerzuweisungen werden automatisch in "statustag.json" gespeichert und beim Serverstart geladen.
 Die Mod unterstützt alle Minecraft Standardfarben:
 black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark_gray, blue, green, aqua, red, light_purple, yellow, white... und mehr
-```
+
 
 ## Funktionen
-```
+
 - Eigene Status-Tags erstellen
 - Tags Spielern zuweisen oder entfernen
 - Alle Minecraft-Formatierungsfarben verfügbar
@@ -61,7 +61,7 @@ black, dark_blue, dark_green, dark_aqua, dark_red, dark_purple, gold, gray, dark
 - Automatisches Speichern/Laden über statustag.json
 - Funktioniert nur auf Servern
 - Kompatibel mit anderen Scoreboard-Systemen
-```
+
 
 ## Befehle
 ```
